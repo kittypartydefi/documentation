@@ -4,7 +4,7 @@ Thanks for giving a little extra love to our docs site! Below are some basic gui
 
 ## Creating a Pull Request
 
-1. [Fork](https://github.com/kittypartydefi/Kittyparty-doc) the repository.
+1. [Fork](https://github.com/kittypartydefi/documentation) the repository.
 2. On your copy of the repo, create a new branch. Be sure that your branch contains the most recent changes from the main branch.
 3. Make any necessary changes, then commit and push them to your fork.
 4. Go to the main docs repo in your browser and open a new pull request.
@@ -17,7 +17,7 @@ Set up your fork with the following terminal commands, or an alteration of them 
 
 ```
 cd Kittyparty-doc
-git remote add upstream https://github.com/kittypartydefi/Kittyparty-doc.git
+git remote add upstream https://github.com/kittypartydefi/documentation.git
 git fetch upstream
 git pull --rebase upstream main
 git checkout -b "my-contribution"
