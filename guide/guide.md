@@ -8,7 +8,7 @@ description: Steps to form a Kitty Party and invite Kittens to join your Kitty P
 
 ![](<../.gitbook/assets/connect wallet>)
 
-#### Step 2 : Click "Start Kitty Party" button
+#### Step 2 : Click "START KITTY PARTY" button
 
 ![](<../.gitbook/assets/start kitty>)
 
