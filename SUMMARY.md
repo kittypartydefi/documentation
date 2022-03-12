@@ -40,6 +40,7 @@
 
 * [Interface](guide/interface.md)
 * [Guide](guide/guide.md)
+* [Video Tutorial](guide/video-tutorial.md)
 
 ## Next steps
 
