@@ -40,7 +40,7 @@ The message that gets passed is the token id of the guardian and the attribute s
 
 ### Cross Chain Future Transport
 
-We have to enable a DAO controlled mint adapter, meaning that the DAO can set an array of addresses that can call the mint function. This is required
+We have to enable a DAO controlled mint adapter, meaning that the DAO can set an array of addresses that can call the mint function. This is required.
 
 #### Design Proposal
 
@@ -52,7 +52,7 @@ We create a state based transition and set flag, only when this flag is true, do
 
 **Implementation**
 
-The implementation can be that when the phase 2 has started, the following happens
+The implementation can be that when the phase 2 has started, the following happens:
 
 1. The DAO can allow certain adapter contracts to mint Guardians on any chain as long as they are not in the deposit adapter.
 2. The total supply does not go above 8888 on any chain.
@@ -60,7 +60,7 @@ The implementation can be that when the phase 2 has started, the following happe
 
 At this stage we will create an additional mint function which can only be called by the DAO and a burn function which again can only be called by the adapter.
 
-So a whitelist of a single address which can be added to by the DAO that can mint and burn in future for each chain there will only 1 adapter.
+So a whitelist of a single address which can be added to, by the DAO that can mint and burn in future for each chain, there will only 1 adapter.
 
 We have instantiated the token\_supply on the child chain to start at 88.
 
@@ -77,6 +77,6 @@ We have instantiated the token\_supply on the child chain to start at 88.
 | [FxRoot (Ethereum Mainnet)](https://etherscan.io/address/0xfe5e5d361b2ad62c541bab87c45a0b9b018389a2#code)                        | `0xfe5e5D361b2ad62c541bAb87C45a0B9B018389a2` |
 | [FxChild (Matic Mainnnet)](https://explorer-mainnet.maticvigil.com/address/0x8397259c983751DAf40400790063935a11afa28a/contracts) | `0x8397259c983751DAf40400790063935a11afa28a` |
 
-You can deploy your own `FxChild` and `FxRoot`, but no need. Except you want to have some fun and have extra ETH to throw away.
+You can deploy your own `FxChild` and `FxRoot`, but no need. Except if you want to have some fun and have extra ETH to throw away.
 
 ####

@@ -18,4 +18,4 @@ We start off by provision liquidity for 100 million tokens and <10K USD. We then
 
 Further LP staking will be provisioned for $20 million KPT rewards. Another $30 million KPT will be distributed for early users of the DApp.
 
-50% of the revenue from the DApp will be utilized to buy KPT tokens from the market and then lock it for a period of 5 years in batches. The balance will be added to the DAO treasury periodically
+50% of the revenue from the DApp will be utilized to buy KPT tokens from the market and then lock it for a period of 5 years in batches. The balance will be added to the DAO treasury periodically.
