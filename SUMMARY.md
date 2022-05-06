@@ -39,7 +39,8 @@
 ## Guide
 
 * [Interface](guide/interface.md)
-* [Guide](guide/guide.md)
+* [Kreator Guide](guide/kreator-guide.md)
+* [Kitten Guide](guide/kitten-guide.md)
 * [Video Tutorial](guide/video-tutorial.md)
 
 ## Next steps
