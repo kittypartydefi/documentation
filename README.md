@@ -10,7 +10,7 @@ description: >-
 
 ## Introduction
 
-Kitty Party is a system that allows participants to pool value together and get additional value for a short period of time from the DeFi ecosystem. The core of the system allows for a group of people to perform actions as a community. ROSCA networks are prevalent in most developing countries as an easier mechanism to gain credit. However, a large number of these are not administered properly and leads to loss of value for the end user. By utilizing smart contracts and taking control out of central administrator, end users have more safety. Additionally, by using yield generating contracts we can further generate yield for the pooled funds. Finally, we allow for KYC and Credit Scores to help the Kreator to keep the system secure, however this is kept optional to the Kreator of the party.
+Kitty Party is a system that allows participants to pool value together and get additional value for a short period of time from the DeFi ecosystem. The core of the system allows for a group of people to perform actions as a community. ROSCA networks are prevalent in most developing countries as an easier mechanism to gain credit. However, a large number of these are not administered properly and leads to loss of value for the end user. By utilizing smart contracts and taking control out of central administrator, end users have more safety. Additionally, by using yield generating contracts we can further generate yield for the pooled funds. 
 
 ## Learn more&#x20;
 
